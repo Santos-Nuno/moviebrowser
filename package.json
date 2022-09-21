@@ -1,7 +1,7 @@
 {
   "name": "moviebrowser",
+  "homepage": "https://github.com/Santos-Nuno/moviebrowser/",
   "version": "0.1.0",
-  "homepage": "https://Santos-Nuno.github.io/react_movie_browser_project",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
