@@ -1,6 +1,6 @@
 {
   "name": "moviebrowser",
-  "homepage": "https://github.com/Santos-Nuno/moviebrowser/",
+  "homepage": "https://github.com/moviebrowser/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
