@@ -26,7 +26,7 @@ function App() {
     <div>
       <Navbar searchText={searchText} setSearchText={setSearchText} />
       <Switch>
-        <Route path="/moviebrowser" exact>
+        <Route path="/" exact>
           <Home />
         </Route>
         <Route path="/about" component={AboutView} />
